@@ -3,4 +3,4 @@ Test
 
 Description
 -----------
-test repository
+Learn with Pro Git
